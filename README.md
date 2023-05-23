@@ -70,6 +70,37 @@ Learning HTML
     <td>Activity 12</td>
     <td>HTML Entities and HTML comments</td>
   </tr>
+   <tr>
+    <td>13</td>
+    <td>Activity 13</td>
+    <td>Create Table to display your Team members</td>
+  </tr>
+   <tr>
+    <td>14</td>
+    <td>Activity 14</td>
+    <td>Create Table with border and style to display your Team members</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Activity 15</td>
+    <td>Headings From H1 to H6</td>
+  </tr>
+  <tr>
+    <td>16</td>
+    <td>Activity 16</td>
+    <td>Paragraphs in HTML</td>
+  </tr>
+   <tr>
+    <td>17</td>
+    <td>Activity 17</td>
+    <td>HR & BR tags in HTML</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>Activity 18</td>
+    <td>Div tag in HTML</td>
+  </tr>
+  
   
  
   
